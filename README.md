@@ -1,4 +1,4 @@
-# Indonesian Life Family Survey - Maternality Lineage 
+# Indonesian Life Family Survey - Matrilineal Lineage
 
 The **Indonesia Family Life Survey (IFLS)** is a longitudinal dataset spanning more than three decades, starting with **IFLS 1 in 1993**. It captures vital socio-economic, health, and demographic data, making it a cornerstone for research on Indonesian families. This project addresses the critical need to validate and analyze **mother-child connections** across the five waves (IFLS 1-5) to ensure the accuracy and reliability of intergenerational studies.
 
