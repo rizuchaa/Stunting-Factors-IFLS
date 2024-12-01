@@ -25,3 +25,15 @@ Errors in identifying these connections can undermine research findings, leading
 4. **Lack of Standardized Tools**
 
 Existing methods for validating mother-child connections are often manual, time-consuming, and error-prone. There is no unified approach to addressing inconsistencies and lineage biases across waves.
+
+## Objectives
+This project aims to develop a Python library that:
+
+- **Validates Relationships**: Automates the verification of mother-child connections across IFLS waves.
+- **Addresses Lineage Bias**: Mitigates the matrilineal emphasis to provide a complete view of familial ties.
+- **Enhances Usability**: Offers user-friendly tools for researchers to perform efficient and accurate analyses.
+
+## Features
+- **Data Cleaning**: Handle missing or inconsistent relationship data.
+- **Relationship Mapping**: Identify and validate mother-child connections across waves.
+- **Lineage Bias Mitigation**: Incorporate paternal and adoptive relationships where relevant.
