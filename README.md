@@ -1,4 +1,4 @@
-# Indonesian Life Family Survey - Maternality Lineage 
+# Indonesian Life Family Survey - Matrilineal Lineage
 
 The **Indonesia Family Life Survey (IFLS)** is a longitudinal dataset spanning more than three decades, starting with **IFLS 1 in 1993**. It captures vital socio-economic, health, and demographic data, making it a cornerstone for research on Indonesian families. This project addresses the critical need to validate and analyze **mother-child connections** across the five waves (IFLS 1-5) to ensure the accuracy and reliability of intergenerational studies.
 
@@ -45,19 +45,18 @@ This software, matrilinear_checker, is designed to analyze data from the **Indon
 
 ### Terms for Using This Library
 1. IFLS Dataset Usage:
-
 This library assumes that users have legally obtained access to the IFLS dataset and agree to comply with the terms and conditions set forth by its creators.
 Users must acknowledge the IFLS dataset in any publications, presentations, or derivatives that utilize this library, as required by the dataset’s licensing terms.
-2. Attribution:
 
+2. Attribution:
 Any work derived from this library must cite the following IFLS documentation:
 Indonesia Family Life Survey (IFLS). RAND Corporation.
-3. Redistribution:
 
+3. Redistribution:
 Redistribution of this library’s source code or its derivatives must include this license file and retain the acknowledgment of the IFLS dataset and its creators.
 4. Data Privacy:
-
 Users of this library must ensure that any use of the IFLS dataset complies with data privacy and ethical standards, avoiding unauthorized sharing or publication of sensitive information.
+
 ### Disclaimer
 This software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
 
