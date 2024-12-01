@@ -11,9 +11,11 @@ Mother-child relationships are central to research exploring intergenerational h
 - Family structures evolve over time due to marriage, divorce, migration, or death, leading to changes in household composition.
 - Maintaining the continuity of mother-child relationships across waves is essential but complicated by these dynamics.
 2. **Data Inconsistencies and Lineage Issues**
+
 - **Self-Reported Relationships**: Relationships in IFLS are often self-reported, resulting in potential misreporting or inconsistencies.
 - **Matrilineal Bias**: Some IFLS waves emphasize matrilineal relationships (e.g., maternal relatives), which may obscure paternal or adoptive ties, complicating analyses of true biological relationships.
 3. **Policy and Research Implications**
+
 Accurate mother-child connections are critical for:
 - **Health Research**: Understanding how maternal health impacts children’s outcomes.
 - **Education Studies**: Assessing the influence of maternal education on children’s academic progress.
@@ -21,4 +23,5 @@ Accurate mother-child connections are critical for:
 Errors in identifying these connections can undermine research findings, leading to flawed conclusions and ineffective policies.
 
 4. **Lack of Standardized Tools**
+
 Existing methods for validating mother-child connections are often manual, time-consuming, and error-prone. There is no unified approach to addressing inconsistencies and lineage biases across waves.
